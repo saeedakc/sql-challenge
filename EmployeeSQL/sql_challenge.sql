@@ -1,0 +1,1 @@
+SELECT * FROM titles LIMIT 100;
